@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "configurations": [
+    {
+      "id": "auto_5af6115",
+      "name": "",
+      "outputs": {
+        "eDP-1": {
+          "mode": "2880x1800@60.001",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1.75,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {
+            "vrrOnDemand": true
+          }
+        }
+      }
+    },
+    {
+      "id": "auto_ea9abafa",
+      "name": "",
+      "outputs": {
+        "eDP-1": {
+          "mode": null,
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "scale": 1,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": true,
+          "niri": {
+            "vrrOnDemand": true
+          }
+        },
+        "DP-1": {
+          "mode": "1920x1080@60.000",
+          "position": {
+            "x": 57,
+            "y": 17
+          },
+          "scale": 1.25,
+          "transform": "Normal",
+          "vrr": false,
+          "disabled": false,
+          "niri": {
+            "vrrOnDemand": true,
+            "hotCorners": null,
+            "layout": null
+          }
+        }
+      }
+    }
+  ]
+}

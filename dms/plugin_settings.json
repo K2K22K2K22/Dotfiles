@@ -1,0 +1,13 @@
+{
+  "dankBatteryAlerts": {
+    "enabled": true
+  },
+  "dankStickerSearch": {
+    "enabled": true
+  },
+  "emojiLauncher": {
+    "enabled": true,
+    "defaultSkinTone": "🏻",
+    "pasteOnSelect": true
+  }
+}
